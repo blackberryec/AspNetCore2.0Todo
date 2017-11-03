@@ -10,3 +10,4 @@ E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cach
 E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
 E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
 E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csprojResolveAssemblyReference.cache
