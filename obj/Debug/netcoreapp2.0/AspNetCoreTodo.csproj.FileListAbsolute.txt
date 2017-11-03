@@ -1,0 +1,12 @@
+E:\AspNetCoreTodo\bin\Debug\netcoreapp2.0\app.db
+E:\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+E:\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+E:\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+E:\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+E:\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
