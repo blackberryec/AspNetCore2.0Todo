@@ -11,3 +11,16 @@ E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
 E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
 E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
 E:\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csprojResolveAssemblyReference.cache
+F:\C# Data\AspNetCore2.0Todo\bin\Debug\netcoreapp2.0\app.db
+F:\C# Data\AspNetCore2.0Todo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+F:\C# Data\AspNetCore2.0Todo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+F:\C# Data\AspNetCore2.0Todo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+F:\C# Data\AspNetCore2.0Todo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+F:\C# Data\AspNetCore2.0Todo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+F:\C# Data\AspNetCore2.0Todo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csprojResolveAssemblyReference.cache
+F:\C# Data\AspNetCore2.0Todo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+F:\C# Data\AspNetCore2.0Todo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\C# Data\AspNetCore2.0Todo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+F:\C# Data\AspNetCore2.0Todo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+F:\C# Data\AspNetCore2.0Todo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+F:\C# Data\AspNetCore2.0Todo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
