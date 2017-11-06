@@ -1,0 +1,16 @@
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\bin\Debug\netcoreapp2.0\app.db
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.IntegrationTests.deps.json
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.IntegrationTests.runtimeconfig.json
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.IntegrationTests.runtimeconfig.dev.json
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.IntegrationTests.dll
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.IntegrationTests.pdb
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.IntegrationTests.csproj.CoreCompileInputs.cache
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.IntegrationTests.AssemblyInfoInputs.cache
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.IntegrationTests.AssemblyInfo.cs
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.IntegrationTests.dll
+E:\AspNetCoreTodo\AspNetCoreTodo.IntegrationTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.IntegrationTests.pdb

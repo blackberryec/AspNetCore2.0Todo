@@ -1,0 +1,17 @@
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\app.db
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.deps.json
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.runtimeconfig.json
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.runtimeconfig.dev.json
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.dll
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.pdb
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.csproj.CoreCompileInputs.cache
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.AssemblyInfoInputs.cache
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.AssemblyInfo.cs
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.dll
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.pdb
+E:\AspNetCoreTodo\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.csprojResolveAssemblyReference.cache
